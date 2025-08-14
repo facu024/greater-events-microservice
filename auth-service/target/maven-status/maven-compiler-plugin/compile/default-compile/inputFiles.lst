@@ -1,0 +1,11 @@
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/AuthApplication.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/controller/AdminResource.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/dto/AdminAuthenticationRequestDTO.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/model/Admin.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/repository/AdminRepository.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/service/AdminAuthenticationService.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/service/AdminAuthenticationServiceImp.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/service/AdminService.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/service/AdminServiceImp.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/util/JwtTokenUtil.java
+/Users/facundoricagno/Desktop/greater-events-microservices/auth-service/src/main/java/ar/edu/unnoba/pdyc2025/auth/util/PasswordEncoder.java

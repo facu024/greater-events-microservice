@@ -1,0 +1,10 @@
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/ArtistApplication.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/controller/AdminArtistController.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/controller/ArtistController.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/controller/PublicArtistController.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/model/Artist.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/model/Genre.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/repository/ArtistRepository.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/service/ArtistService.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/util/JwtAuthorizationFilter.java
+/Users/facundoricagno/Desktop/greater-events-microservices/artist-service/src/main/java/ar/edu/unnoba/pdyc2025/artist/util/JwtTokenUtil.java

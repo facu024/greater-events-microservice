@@ -1,0 +1,9 @@
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/EventApplication.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/config/SecurityConfig.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/controller/AdminEventController.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/controller/PublicEventController.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/model/Event.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/model/EventState.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/repository/EventRepository.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/security/JwtAuthorizationFilter.java
+/Users/facundoricagno/Desktop/greater-events-microservices/event-service/src/main/java/ar/edu/unnoba/pdyc2025/event/service/EventService.java
